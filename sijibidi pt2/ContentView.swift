@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("if u read dis u r sijibidi pt2")
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                 .bold()
+            Text("poggies")
                 
         }
         .padding()
